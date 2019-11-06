@@ -1,7 +1,7 @@
 pipeline {
     agent { label 'master' }
     stages {
-        stage('Hello World') {
+        stage('Hello') {
             steps {
                 sh './hellogit.sh'
             }
