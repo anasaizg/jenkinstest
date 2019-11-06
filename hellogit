@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Hello from `hostname`"
+echo "This is a code fetched from git"
